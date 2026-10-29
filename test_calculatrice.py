@@ -7,7 +7,7 @@ def test_addition():
 
 
 def test_soustraction():
-    assert soustraction(10, 4) == 6
+    assert soustraction(10, 5) == 5
 
 
 def test_multiplication():
